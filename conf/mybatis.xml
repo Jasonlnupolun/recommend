@@ -22,7 +22,7 @@
                 <property name="driver" value="com.mysql.jdbc.Driver"/>
                 <property name="url" value="jdbc:mysql://db86.kanketv.com:3306/retroaction"/>
                 <property name="username" value="root"/>
-                <property name="password" value="Wasu234K5"/>
+                 
             </dataSource>
         </environment>
     </environments>
